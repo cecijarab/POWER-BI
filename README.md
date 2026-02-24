@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs Dashboard 1 Page 1](PowerBI_Dashboard1\images\Project1_Page1.png)
+![Data Jobs Dashboard 1 Page 1](/PowerBI_Dashboard1/images/Project1_Page1.png)
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNjE1YjdmMjUtMWFjMC00N2I4LWE3ZTktMWIwNTUzMGQyYzQ0IiwidCI6IjBiNjk2MDAyLWQ2YTYtNDI2Ni04OTI4LTE1ZWQ4ZDA2NDQxMCIsImMiOjR9)
 
@@ -35,7 +35,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 
 ## Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-![Data Jobs Dashboard 2](Data_Jobs_Dashboard2\Datajobsv2.png)
+![Data Jobs Dashboard 2](/Data_Jobs_Dashboard2/Datajobsv2.png)
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNzMwYjc3MDUtN2I4Mi00NDJlLTkzMzctMTQ3YzA1NzAyODNhIiwidCI6IjBiNjk2MDAyLWQ2YTYtNDI2Ni04OTI4LTE1ZWQ4ZDA2NDQxMCIsImMiOjR9)
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single-page experience. It's optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
