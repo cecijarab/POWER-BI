@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs Dashboard 1 Page 1](/PowerBI_Dashboard1/images/Project1_Page1.png)
+![Data Jobs Dashboard 1 Page 1](/Data_Jobs_Dashboard1/images/Project1_Page1.png)
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNjE1YjdmMjUtMWFjMC00N2I4LWE3ZTktMWIwNTUzMGQyYzQ0IiwidCI6IjBiNjk2MDAyLWQ2YTYtNDI2Ni04OTI4LTE1ZWQ4ZDA2NDQxMCIsImMiOjR9)
 
@@ -29,7 +29,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 * Buttons & Bookmarks for Page Navigation
 * Drill-Through Functionality
 
-[➡️ **View Full Project 1 Details (README)**](PowerBI_Dashboard1\README.md)
+[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_Dashboard1/README.md)
 
 ---
 
