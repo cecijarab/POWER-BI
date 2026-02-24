@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power Bi
-![Dashboard Page 1](/Power_BI_Dashboards/images/Project1_Page1.png)
-![Dashboard Page 2](/Power_BI_Dashboards/images/Project1_Page2.png)
+![Dashboard Page 1](/Data_Jobs_Dashboard1/images/Project1_Page1.png)
+![Dashboard Page 2](/Data_Jobs_Dashboard1/images/Project1_Page2.png)
 ## Introduction / Introducción 
 
 This dashboard was created with the purpose of exploring Data Job options around the world, analyzing oportunities and solving a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
@@ -25,14 +25,14 @@ This project was a journey through key Power BI features. Here's a look at what 
 *This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](/Power_BI_Dashboards/images/Project1_Page1.png)
+![Dashboard Page 1](/Data_Jobs_Dashboard1/images/Project1_Page1.png)
 
 
 It showcases key KPIs like total job count, median salaries, and top job titles to give a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page 2](/Power_BI_Dashboards/images/Project1_Page2.png)  
+![Dashboard Page 2](/Data_Jobs_Dashboard1/images/Project1_Page2.png)  
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
