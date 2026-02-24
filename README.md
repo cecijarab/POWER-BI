@@ -52,7 +52,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 * Optimized Slicers & Advanced Cross-Filtering Techniques
 * Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_Dashboard2/README)
+[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_Dashboard2/README.md)
 
 ---
 
